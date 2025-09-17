@@ -8,7 +8,8 @@
 
 ## horizontal rule
 
-** bold**
+**bold**
+
 _bold_
 
 *italic*
